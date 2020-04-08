@@ -1,6 +1,7 @@
 #DINESHSAGAR
 
 #If the code is not working or have any issues with path, get in touch with me.
+#you need additional libraries like PyAudio, go to terminal and type pip install pyaudio
 
 import speech_recognition as sr
 
